@@ -1,7 +1,7 @@
 # Advanced Data Preparation with Best Practices
 
 Welcome to the **Advanced Data Preprocessing with Best Practices** course! This hands-on course is designed to help you
-master the essential skills and advanced techniques needed to transform any data asset—structured or unstructured—into a
+master the essential skills and advanced techniques needed to transform any data asset structured or unstructured into a
 high-quality, ready-to-use dataset.
 
 ---
